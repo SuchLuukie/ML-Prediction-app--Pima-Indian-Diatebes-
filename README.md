@@ -6,6 +6,6 @@
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 # Libraries used:
-sklearn - RandomForestClassifier (Machine learning)
-streamlit - Visualization of data/prediction.
+sklearn - RandomForestClassifier (Machine learning) <br/>
+streamlit - Visualization of data/prediction. <br/>
 pandas - dataframe
